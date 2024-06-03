@@ -1,7 +1,4 @@
-﻿using ConsoleApp.MiniStudentAttendanceTracker;
-using Microsoft.Extensions.DependencyInjection;
-
-var serviceProvider = new ServiceCollection()
+﻿var serviceProvider = new ServiceCollection()
     .AddSingleton<IStudentRepository, StudentRepository>()
     .AddSingleton<IAttendanceRepository, AttendanceRepository>()
     .AddSingleton<AttendanceService>()

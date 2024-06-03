@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp.MiniStudentAttendanceTracker;
+﻿namespace ConsoleApp.MiniStudentAttendanceTracker.Repositories;
 
 public class AttendanceRepository : IAttendanceRepository
 {
