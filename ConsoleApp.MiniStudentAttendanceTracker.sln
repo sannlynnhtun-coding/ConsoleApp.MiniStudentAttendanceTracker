@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34929.205
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.MiniStudentAttendanceTracker", "ConsoleApp.MiniStudentAttendanceTracker\ConsoleApp.MiniStudentAttendanceTracker.csproj", "{DA53869D-1928-4D2D-854D-493858E900EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA53869D-1928-4D2D-854D-493858E900EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA53869D-1928-4D2D-854D-493858E900EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA53869D-1928-4D2D-854D-493858E900EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA53869D-1928-4D2D-854D-493858E900EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C878CBD-F25F-4985-BFE4-B919E37F3FD5}
+	EndGlobalSection
+EndGlobal
